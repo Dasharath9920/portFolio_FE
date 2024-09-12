@@ -35,11 +35,11 @@ function Contact() {
                 <h2 className='bottom-page-header'>dyavari dasharath</h2>
                 <p className='bottom-page-subheading'>Follow me on</p>
                 <ul className='contact-icons'>
-                    <li className='contact-icon'><a href="https://www.facebook.com/dasharath.dasharath.1694/" target='_blank'><FacebookIcon color='warning'/></a></li>
-                    <li className='contact-icon'><a href="https://www.instagram.com/dasharath_116/" target='_blank'><InstagramIcon color='warning'/></a></li>
-                    <li className='contact-icon'><a href="https://github.com/Dasharath9920" target='_blank'><GitHubIcon color='warning'/></a></li>
-                    <li className='contact-icon'><a href="https://www.linkedin.com/in/dyavari-dasharath-b767021b3/" target='_blank'><LinkedInIcon color='warning'/></a></li>
-                    <li className='contact-icon'><a href="https://twitter.com/Dashara38665028" target='_blank'><TwitterIcon color='warning'/></a></li>
+                    <li className='contact-icon'><a href="https://www.facebook.com/dasharath.dasharath.1694/" target='_blank' rel='noreferrer'><FacebookIcon color='warning'/></a></li>
+                    <li className='contact-icon'><a href="https://www.instagram.com/dasharath_116/" target='_blank' rel='noreferrer'><InstagramIcon color='warning'/></a></li>
+                    <li className='contact-icon'><a href="https://github.com/Dasharath9920" target='_blank' rel='noreferrer'><GitHubIcon color='warning'/></a></li>
+                    <li className='contact-icon'><a href="https://www.linkedin.com/in/dyavari-dasharath-b767021b3/" target='_blank' rel='noreferrer'><LinkedInIcon color='warning'/></a></li>
+                    <li className='contact-icon'><a href="https://twitter.com/Dashara38665028" target='_blank' rel='noreferrer'><TwitterIcon color='warning'/></a></li>
                 </ul>
                 <p className='bottom-page-declaimer'>Copyright ©2023 Dasharath. All rights reserved</p>
             </div>
