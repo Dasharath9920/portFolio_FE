@@ -15,7 +15,9 @@ function Navbar() {
     else{
       navbar.style.translate = '0vw';
     }
-    setMenu(!menu);
+    if(window.innerWidth <= 900){
+      setMenu(!menu);
+    }
   }
 
   useEffect(() => {
