@@ -42,8 +42,8 @@ export const skills = [
     {
         name: 'Developer',
         icon: 'https://img.icons8.com/ios-filled/100/source-code.png',
-        description: 'I\'m working as a Software Engineer with 1.5years of experiece developing various features in Web development. I\'ve also built several projects some of them mentioned above.',
-        skills: ['HTML','CSS','JavaScript','Java','Python','Git','C++','MongoDb','ReactJs','bootstrap','TypeScript']
+        description: 'I\'m working as a Software Developer with 2+ years of experience developing various features in Web development. I\'ve also built several projects some of them mentioned above.',
+        skills: ['JavaScript','TypeScript','React','AngularJS','HTML','CSS','Git','Java','Python','OOPS','C++','SQL','DBMS','Machine Learning','Operating System']
     },
     {
         name: 'Youtuber',
@@ -58,15 +58,9 @@ export const skills = [
         skills: ['Creativity','Attention']
     },
     {
-        name: 'Editor',
-        icon: 'https://img.icons8.com/ios-filled/50/clapperboard.png',
-        description: 'I\'m an Editor manipulating video footage to create a project that accurately depicts the film directors envision. I\'m at early stage. In coming days, I\'ll be using complex editing software to piece together stills, footage, sound effects, dialog, and animation effects.',
-        skills: ['Writing','Communication','Adaptability','Creativity']
-    },
-    {
         name: 'Problem Solver',
         icon: 'https://img.icons8.com/external-ddara-lineal-ddara/64/external-problem-solving-managements-ddara-lineal-ddara.png',
         description: 'Being proficient in coding, I\'ll be able to solve complex problems using Data Structure and Algorithms. Solved 1000+ problems on platforms such as GeeksForGeeks, Leetcode, etc. with 1856 contest rating',
-        skills: ['Competitive Programmer','Data Structures','Problem Solving','Algorithms']
+        skills: ['Competitive Programmer','Data Structures',' Problem-Solving','Algorithms']
     }
 ]
