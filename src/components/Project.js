@@ -19,8 +19,8 @@ function Project({project}) {
         </div>
         <div className="project-image"><img src={project.image} alt="project_image" /></div>
         <div className='project-btns'>
-            <a className='project-btn' href={project.codelink} target='_blank'><CodeIcon /><span>View Code</span></a>
-            <a className='project-btn' href={project.application} target='_blank'><VisibilityIcon /><span>Live Demo</span></a>
+            <a className='project-btn' href={project.codelink} target='_blank' rel="noreferrer"><CodeIcon /><span>View Code</span></a>
+            <a className='project-btn' href={project.application} target='_blank' rel="noreferrer"><VisibilityIcon /><span>Live Demo</span></a>
         </div>
     </div>
   )
