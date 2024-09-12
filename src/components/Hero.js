@@ -29,7 +29,7 @@ function Hero() {
             <button className='download-btn' onClick={downloadResume}>Download Resume</button>
         </div>
         <div className='hero-image'>
-            <img src={profile_pic} alt="image" />
+            <img src={profile_pic} alt="Profile" />
         </div>
     </div>
   )
