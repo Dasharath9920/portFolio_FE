@@ -6,7 +6,7 @@ function Hero() {
   const downloadResume = () => {
     const link = document.createElement('a');
     link.target = '_blank';
-    link.href = 'https://drive.google.com/file/d/105AqCoj31iD673ptkXv5w9CVIeC82mRS/view?usp=sharing'; // Replace with your PDF URL
+    link.href = 'https://drive.google.com/file/d/1xEBbEIXxDbdFYbgDhEbSGCxy1lh7gttt/view?usp=sharing'; // Replace with your PDF URL
     link.setAttribute('download', 'Resume.pdf'); // Optional: Set a custom filename
     document.body.appendChild(link);
     link.click();
